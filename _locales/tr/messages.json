@@ -1,0 +1,17 @@
+{
+    "extensionName": {
+      "message": "EG theme",
+      "description": "Name of the extension."
+    },
+  
+    "extensionDescription": {
+      "message": "EG theme",
+      "description": "Description of the extension."
+    },
+
+    "extensionAuthor": {
+        "message": "Erkin Göksu",
+        "description": "Author of the extension."
+      }
+
+  }
