@@ -11,7 +11,7 @@
     "gecko": {
         "id": "{a5v793p85k9npmwfjdd4ko93fpi9szh45j2uak42}",
         "strict_min_version": "89.0",
-        "update_url": "https://github.com/erkingoksuu/theme/manifest.json"
+        "update_url": "https://github.com/erkingoksuu/theme/blob/main/manifest.json"
       }
   },
 
